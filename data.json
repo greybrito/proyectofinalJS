@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nombre": "Vodka",
+    "precio": "50",
+    "imagen": "vodka.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Rum",
+    "precio": "60",
+    "imagen": "rum.webp"
+  },
+  {
+    "id": 3,
+    "nombre": "Tequila",
+    "precio": "80",
+    "imagen": "Tequila.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Gin",
+    "precio": "70",
+    "imagen": "Gin.webp"
+  },
+  {
+    "id": 5,
+    "nombre": "Brandy",
+    "precio": "90",
+    "imagen": "Brandy.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Scotch",
+    "precio": "120",
+    "imagen": "Scotch.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Cognac",
+    "precio": "110",
+    "imagen": "Cognac.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Liqueur",
+    "precio": "75",
+    "imagen": "Liqueur.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Sake",
+    "precio": "65",
+    "imagen": "Sake.jpeg"
+  },
+  {
+    "id": 10,
+    "nombre": "Absinthe",
+    "precio": "95",
+    "imagen": "Absinthe.webp"
+  }
+]

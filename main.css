@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#contenedor {
+  min-height: 100vh;
+  overflow: hidden;
+  background: var(--bs-light);
+  padding: 0;
+}
+
+#pagina-principal {
+  height: 100vh;
+}
+
+#formulario {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20%;
+  gap: 30px;
+}
+
+#carrito {
+  background-color: #e0f7fa;
+  padding: 0;
+}
+
+#contenedor-carrito {
+  height: 80vh;
+  padding: 10px;
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+}
+
+#total {
+  height: 5vh;
+  padding-left: 20px;
+}
+
+#btn-finalizar {
+  width: 100%;
+  border-radius: 0;
+  height: 7vh;
+}
+
+#encabezado {
+  background-color: var(--bs-info);
+  height: 8vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 50px;
+}
+
+#encabezado h3 {
+  text-transform: uppercase;
+}
+
+#listadoDeProductos {
+  gap: 15px;
+  padding: 15px;
+  padding-bottom: 80px;
+}
+
+#listadoDeProductos .card {
+  width: 230px;
+}
+
+.input-group {
+  width: 300px;
+}
+
+.invisible {
+  opacity: 0;
+}
+
+.ocultar {
+  display: none !important;
+}
+
+.contenido {
+  height: 100%;
+  margin: 0;
+}
+
+.logo {
+  border-radius: 100%;
+  background-color: white;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo img {
+  height: 40px;
+}
+
+.card-img-top {
+  height: 200px;
+}
+
+.scroll {
+  height: 100%;
+  overflow-y: scroll;
+}
